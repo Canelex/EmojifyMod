@@ -11,8 +11,8 @@ public class Values
 {
 	private File emojiDir;
 	private Configuration config;
-	private String current;
 	private Map<String, Emoji> emojis;
+	private String current;
 
 	public boolean enabled;
 	public int comboHits;

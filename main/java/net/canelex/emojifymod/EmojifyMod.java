@@ -28,7 +28,8 @@ import java.io.File;
 import java.util.List;
 import java.util.UUID;
 
-@Mod(modid = "emojifymod", name = "Emojify Mod", version = "1.0") public class EmojifyMod
+@Mod(modid = "emojifymod", name = "Emojify Mod", version = "1.0")
+public class EmojifyMod
 {
 	// Managers
 	private Minecraft mc;
