@@ -1,0 +1,12 @@
+[
+{
+  "modid": "emojifymod",
+  "name": "Emojify Mod",
+  "description": "Renders an emoji of your choice over the face of players.",
+  "version": "1.0",
+  "mcversion": "${mcversion}",
+  "url": "www.youtube.com/canelex",
+  "updateUrl": "",
+  "authorList": ["canelex"]
+}
+]
