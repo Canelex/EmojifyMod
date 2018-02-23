@@ -170,6 +170,11 @@ public class EmojifyMod
 
 	public void onEntityDamage(Entity entity)
 	{
+		if (entity == null) 
+		{
+			return;
+		}
+		
 		if (!entity.equals(mc.thePlayer))
 		{
 			UUID uuid = entity.getUniqueID();
